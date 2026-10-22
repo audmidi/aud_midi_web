@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Make all repos run on Windows
+
 ## 0.1.1 - 2026-10-12
 
 ### Added
