@@ -1,6 +1,6 @@
 name: aud_midi_web
 description: "Web MIDI backend for aud_midi, built on package:web"
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/audmidi/aud_midi_web
 repository: https://github.com/audmidi/aud_midi_web
 topics:
