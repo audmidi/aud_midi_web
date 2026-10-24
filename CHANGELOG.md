@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Add an example of the Web MIDI backend
+
 ### Changed
 
 - Make all repos run on Windows
