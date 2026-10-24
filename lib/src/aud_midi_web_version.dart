@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_midi_web` package.
-const String audMidiWebVersion = '0.1.1';
+const String audMidiWebVersion = '0.1.2';

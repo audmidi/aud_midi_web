@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.2 - 2026-10-24
+
+### Added
+
+- Add an example of the Web MIDI backend
+
+### Changed
+
+- Make all repos run on Windows
+
 ## 0.1.1 - 2026-10-12
 
 ### Added
