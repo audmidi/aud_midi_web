@@ -21,4 +21,4 @@ dev_dependencies:
 dependencies:
   aud_midi_core: ^0.1.1
   aud_midi_standard: ^0.1.0
-  web: ^1.1.1
+  web: ^1.1.2
